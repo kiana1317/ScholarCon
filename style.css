@@ -1,0 +1,61 @@
+body{
+  background:#ffffff;
+  font-family: 'Gayathri', sans-serif;
+}
+h1{
+  text-align: center;
+  color: #E33930
+}
+
+#sub{
+  text-align: center;
+}
+#logo{
+  text-align: center
+}
+
+#button{
+  border: none; 
+  border-radius: 12px; 
+  background-color: #E33930;
+}
+table{
+  padding: 15px;
+  table-layout: fixed;
+  width: 100%;
+  text-align: center;
+}
+
+td{
+  width: 25%;
+  vertical-align: bottom;
+}
+
+#tag{
+  position: relative;
+
+}
+
+#logo{
+  width: 100%;
+  height: auto;
+}
+
+#img2{
+  width: 90%;
+  height: auto;
+  border-radius: 12px; 
+  left: 40%
+}
+
+hr{
+  border-top: 10px ridge #4E92C2
+}
+
+#bio{
+  text-align: left;
+  line-height: 1.8;
+  border: 5px dotted #4E92C2;
+  padding: 10px
+  /* font-family: 'Quicksand', sans-serif; */
+}
